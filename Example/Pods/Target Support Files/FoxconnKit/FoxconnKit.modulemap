@@ -1,0 +1,6 @@
+framework module FoxconnKit {
+  umbrella header "FoxconnKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

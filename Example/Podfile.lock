@@ -1,0 +1,16 @@
+PODS:
+  - FoxconnKit (0.1.0)
+
+DEPENDENCIES:
+  - FoxconnKit (from `../`)
+
+EXTERNAL SOURCES:
+  FoxconnKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FoxconnKit: e2a0ec719ebecc8f1f7813e992fbc67bde66d48a
+
+PODFILE CHECKSUM: 9a36fc9a325a848e5044bee1bc51bd7d346d2951
+
+COCOAPODS: 1.6.1
